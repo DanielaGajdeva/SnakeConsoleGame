@@ -7,8 +7,7 @@
 
   <ItemGroup>
     <Folder Include="Core\" />
-    <Folder Include="Enums\" />
-    <Folder Include="GameObjects\" />
+    <Folder Include="GameObjects\Foods\" />
   </ItemGroup>
 
 </Project>
